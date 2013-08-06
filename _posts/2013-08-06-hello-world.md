@@ -7,4 +7,3 @@ tags: []
 ---
 
 创建的第一篇日志
-{% include JB/setup %}
