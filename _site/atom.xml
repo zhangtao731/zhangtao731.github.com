@@ -4,7 +4,7 @@
  <title>gonghejian</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2013-08-06T09:22:09+08:00</updated>
+ <updated>2013-08-06T22:50:15+08:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>gonghejian</name>
@@ -14,10 +14,62 @@
  
  <entry>
    <title>Hello World</title>
-   <link href="http://username.github.io/2013/08/06/hello-world"/>
+   <link href="http://username.github.io/lessons/2013/08/06/hello-world"/>
    <updated>2013-08-06T00:00:00+08:00</updated>
-   <id>http://username.github.io/2013/08/06/hello-world</id>
-   <content type="html"></content>
+   <id>http://username.github.io/lessons/2013/08/06/hello-world</id>
+   <content type="html">&lt;p&gt;&amp;#171;&amp;#171;&amp;lt;&amp;#171;&amp;#160;HEAD&lt;/p&gt;
+
+&lt;h1 id=&#39;id6&#39;&gt;新文章测试&lt;/h1&gt;
+
+&lt;p&gt;创建的第一篇日志&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;a22cf019481392b14eafca21edee312219c42b34&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>蒙人和被蒙</title>
+   <link href="http://username.github.io/%E6%97%A5%E5%BF%97/2013/08/05/logic"/>
+   <updated>2013-08-05T00:00:00+08:00</updated>
+   <id>http://username.github.io/%E6%97%A5%E5%BF%97/2013/08/05/logic</id>
+   <content type="html">&lt;h3 id=&#39;id2&#39;&gt;逻辑的书到底是什么书?&lt;/h3&gt;
+
+&lt;p&gt;　　 在我看来，现在有很多人都喜欢看逻辑、批判性思考、哲学的书。是好的吗？还是社会需要让我们比读这么一些书呢？是进步或是退步？其实无从考究。思考的书早期来看就是哲学，从自身经验出发，提问思考，后期进入我们现在喜好的分析性思维，包括了心理学、逻辑学、批评思考、模型的分析思考等等。简单而言，就是越来越细分而已。&lt;/p&gt;
+
+&lt;p&gt;这本书其实上算是普及逻辑的入门辅导书，为什么我要叫“入门辅导书”。&lt;/p&gt;
+
+&lt;p&gt;* 入门必然需要严格的阶段化训练程序，这本书给不了你；　 * 入门必然需要完整的框架结构，这本书给不了你；&lt;/p&gt;
+
+&lt;p&gt;　　 &lt;strong&gt;所以我看来这本书就是当你看多了分析性思考之后的一本休闲书，不能帮你解决系统的问题，可是角边料来补充系统的一些点&lt;/strong&gt; 　　&lt;/p&gt;
+
+&lt;h3 id=&#39;id3&#39;&gt;这本书是如何讲逻辑的？&lt;/h3&gt;
+
+&lt;p&gt;　　 重点讲的都是非形式一块，包括语言和关联两块，其实这方面一看书就知道很多都是生活中的实例；例如当广告普天而来的时候，是不是该独立思考一下。是真的吗？还是假的？为什么？为什么我们容易受骗或者不容易受骗？欺骗的依据和心理暗示到底是些什么？其实在我们看来是心理学的东西，其实在逻辑这门学科里面也早都有了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;How to Win Every Argument：The Use and Abuse of Logic&#39; src=&#39;http://img3.douban.com/lpic/s25337320.jpg&#39; /&gt;　 　　&lt;/p&gt;
+
+&lt;h3 id=&#39;id4&#39;&gt;逻辑的活用？&lt;/h3&gt;
+
+&lt;p&gt;　　 我们都不是大师，所以读书不是为了满足内心的精神安慰，也可以是面对生活和工作。其实就是几个重要：&lt;/p&gt;
+
+&lt;p&gt;+ 辨别是非（真假） + 懂得合理推导&lt;/p&gt;
+
+&lt;p&gt;能做到上面两个其实就不错了。看看芒格的思考清单里面，有多少项是为了这两点服务的？&lt;/p&gt;
+
+&lt;p&gt;　　 &lt;strong&gt;学习逻辑好似可以不被人蒙，其实也是蒙人的艺术&lt;/strong&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
