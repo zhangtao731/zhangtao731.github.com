@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 description: ""
-category: 
-tags: []
+category: lessons
+tags: jekyll
 ---
-{% include JB/setup %}
+新文章测试

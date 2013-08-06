@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
+        <title>gonghejian</title>
+        <description>gonghejian - gonghejian</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2013-08-06T08:37:31+08:00</lastBuildDate>
-        <pubDate>2013-08-06T08:37:31+08:00</pubDate>
+        <lastBuildDate>2013-08-06T09:22:09+08:00</lastBuildDate>
+        <pubDate>2013-08-06T09:22:09+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Hello World</title>
+                <description></description>
+                <link>http://username.github.io/2013/08/06/hello-world</link>
+                <guid>http://username.github.io/2013/08/06/hello-world</guid>
+                <pubDate>2013-08-06T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap</title>
+ <title>gonghejian</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2013-08-06T08:37:31+08:00</updated>
+ <updated>2013-08-06T09:22:09+08:00</updated>
  <id>http://username.github.io</id>
  <author>
-   <name>Name Lastname</name>
-   <email>blah@email.test</email>
+   <name>gonghejian</name>
+   <email>badboy315@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://username.github.io/2013/08/06/hello-world"/>
+   <updated>2013-08-06T00:00:00+08:00</updated>
+   <id>http://username.github.io/2013/08/06/hello-world</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>Jekyll Introduction</title>
