@@ -5,22 +5,10 @@
         <description>gonghejian - gonghejian</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2013-08-06T22:55:06+08:00</lastBuildDate>
-        <pubDate>2013-08-06T22:55:06+08:00</pubDate>
+        <lastBuildDate>2013-08-06T23:08:36+08:00</lastBuildDate>
+        <pubDate>2013-08-06T23:08:36+08:00</pubDate>
         <ttl>1800</ttl>
 
-
-        <item>
-                <title>Hello World</title>
-                <description>&lt;p&gt;&amp;#171;&amp;#171;&amp;lt;&amp;#171;&amp;#160;HEAD 新文章测试&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;new blog test&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-                <link>http://username.github.io/lessons/2013/08/06/hello-world</link>
-                <guid>http://username.github.io/lessons/2013/08/06/hello-world</guid>
-                <pubDate>2013-08-06T00:00:00+08:00</pubDate>
-        </item>
 
         <item>
                 <title>蒙人和被蒙</title>
@@ -49,9 +37,21 @@
 &lt;p&gt;能做到上面两个其实就不错了。看看芒格的思考清单里面，有多少项是为了这两点服务的？&lt;/p&gt;
 
 &lt;p&gt;　　 &lt;strong&gt;学习逻辑好似可以不被人蒙，其实也是蒙人的艺术&lt;/strong&gt;&lt;/p&gt;</description>
-                <link>http://username.github.io/%E6%97%A5%E5%BF%97/2013/08/05/logic</link>
-                <guid>http://username.github.io/%E6%97%A5%E5%BF%97/2013/08/05/logic</guid>
-                <pubDate>2013-08-05T00:00:00+08:00</pubDate>
+                <link>http://username.github.io/%E6%97%A5%E5%BF%97/2013/08/07/logic</link>
+                <guid>http://username.github.io/%E6%97%A5%E5%BF%97/2013/08/07/logic</guid>
+                <pubDate>2013-08-07T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Hello World</title>
+                <description>&lt;p&gt;&amp;#171;&amp;#171;&amp;lt;&amp;#171;&amp;#160;HEAD 新文章测试&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;new blog test&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+                <link>http://username.github.io/lessons/2013/08/06/hello-world</link>
+                <guid>http://username.github.io/lessons/2013/08/06/hello-world</guid>
+                <pubDate>2013-08-06T00:00:00+08:00</pubDate>
         </item>
 
         <item>
