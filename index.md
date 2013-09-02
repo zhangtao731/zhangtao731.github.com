@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Hello World!
+title: 弓和箭
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+弓和箭写字的地方，在github上面的尝试。
 
-## Update Author Attributes
+## 推荐的文章
 
 In `_config.yml` remember to specify your own data:
     
