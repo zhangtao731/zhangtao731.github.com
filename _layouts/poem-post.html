@@ -1,0 +1,43 @@
+---
+layout: default
+top:  阳志平的个人网站::诗歌
+feed: /feed
+---
+
+<div id="header">
+	{% include nav-poem.html %}
+</div>
+
+<div id="page">
+
+  <h1 class="emphnext">{{ page.title }}</h1>
+
+{{ content }}
+
+  <address class="signature">
+    <a class="author" href="http://www.yangzhiping.com">作者：阳志平</a> 
+    <span class="date">{{ page.date | date_to_long_string }}</span>
+  </address>
+</div><!-- End Page -->
+
+<!-- Delicious hits
+<script type="text/javascript">
+    if (typeof window.Delicious == "undefined") window.Delicious = {};
+    Delicious.BLOGBADGE_DEFAULT_CLASS = 'delicious-blogbadge-line';
+</script>
+<script src="http://static.delicious.com/js/blogbadge.js"></script>
+-->
+
+
+<!-- Discus Comments -->
+<div id="disqus_thread"></div>
+
+<!-- Enable Disqus comments -->
+<script type="text/javascript">
+	var disqus_iframe_css = "http://www.yangzhiping.com/files/css/screen.css";
+	var disqus_title = "{{ page.title }}";
+	var disqus_message = "{{ page.excerpt }}";
+</script>
+<script type="text/javascript" src="http://disqus.com/forums/ouyang/embed.js"></script>
+
+<noscript>
