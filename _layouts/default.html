@@ -1,63 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }} &larr; {{ page.top }}</title>
-   <meta name="author" content="yangzhiping,创业,心理学,技术" />
-
-   <link rel="start" href="/" />
-
-	{% if page.keywords %}
-	<meta name="keywords" content="{{ page.keywords }}">
-	{% endif %}
-	
-	{% if page.feed %}
-  	<link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="RSS feed" />
-	{% endif %}
-    <link rel="stylesheet" href="/files/css/blueprint/screen.css" type="text/css" />
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/files/css/syntax.css" type="text/css" />
-
-   <!-- Homepage CSS -->
-
-   <link rel="stylesheet" href="/files/css/screen.css" type="text/css" />
-
-
-
-</head>
-<body id="{{ page.section }}">
-<div id="site">
-
-  {{ content }}
-  
-  <div id="footer">
-	<address>
-		<span class="copyright">
-			Content by 
-			<a href="http://www.yangzhiping.com/">阳志平</a> 
-			(<a rel="licence" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Some rights reserved</a>)			
-		</span>
-		<span class="engine">
-			Powered by 
-			<a href="http://github.com/mreid/jekyll/" title="A static, minimalist CMS">Jekyll</a> and 	<a href="http://mark.reid.name/">Mark Reid</a>
-		</span>
-	</address>
-  </div>
-</div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6781501-12']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</body>
-</html>
+---
+theme:
+  name: dinky
+---
+{% include JB/setup %}
+{% include themes/dinky/default.html %}
